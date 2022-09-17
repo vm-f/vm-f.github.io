@@ -1,24 +1,29 @@
 @font-face {
   font-family: SuisseIntl;
   src: url("https://vm-f.github.io/-/cdn/fonts/SuisseIntl/SuisseIntl.woff2") format("woff2");
+  font-weight: 400;
 }
 
 @font-face {
-  font-family: SuisseIntl-b;
+  font-family: SuisseIntl;
   src: url("https://vm-f.github.io/-/cdn/fonts/SuisseIntl/SuisseIntl-Bold.woff2") format("woff2");
+  font-weight: 700;
 }
 
 @font-face {
-  font-family: SuisseIntl-l;
+  font-family: SuisseIntl;
   src: url("https://vm-f.github.io/-/cdn/fonts/SuisseIntl/SuisseIntl-Light.woff2") format("woff2");
+  font-weight: 300;
 }
 
 @font-face {
-  font-family: SuisseIntl-m;
+  font-family: SuisseIntl;
   src: url("https://vm-f.github.io/-/cdn/fonts/SuisseIntl/SuisseIntl-Medium.woff2") format("woff2");
+  font-weight: 500;
 }
 
 @font-face {
-  font-family: SuisseIntl-sb;
+  font-family: SuisseIntl;
   src: url("https://vm-f.github.io/-/cdn/fonts/SuisseIntl/SuisseIntl-SemiBold.woff2") format("woff2");
+  font-weight: 600;
 }
