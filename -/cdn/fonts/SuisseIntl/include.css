@@ -1,0 +1,24 @@
+@font-face {
+  font-family: SuisseIntl;
+  src: url("https://vm-f.github.io/-/cdn/fonts/SuisseIntl/SuisseIntl.woff2") format("woff2"), local("Helvetica Neue"), local("HelveticaNeue");
+}
+
+@font-face {
+  font-family: SuisseIntl-b;
+  src: url("https://vm-f.github.io/-/cdn/fonts/SuisseIntl/SuisseIntl-Bold.woff2") format("woff2"), local("Helvetica Neue Bold"), local("HelveticaNeue-Bold"), local("Helvetica Neue"), local("HelveticaNeue");
+}
+
+@font-face {
+  font-family: SuisseIntl-l;
+  src: url("https://vm-f.github.io/-/cdn/fonts/SuisseIntl/SuisseIntl-Light.woff2") format("woff2"), local("Helvetica Neue Light"), local("HelveticaNeue-Light"), local("Helvetica Neue"), local("HelveticaNeue");
+}
+
+@font-face {
+  font-family: SuisseIntl-m;
+  src: url("https://vm-f.github.io/-/cdn/fonts/SuisseIntl/SuisseIntl-Medium.woff2") format("woff2"), local("Helvetica Neue Medium"), local("HelveticaNeue-Medium"), local("Helvetica Neue"), local("HelveticaNeue");
+}
+
+@font-face {
+  font-family: SuisseIntl-sb;
+  src: url("https://vm-f.github.io/-/cdn/fonts/SuisseIntl/SuisseIntl-SemiBold.woff2") format("woff2"), local("Helvetica Neue Semibold"), local("Helvetica Neue SemiBold"), local("HelveticaNeue-Semibold"), local("HelveticaNeue-SemiBold"), local("Helvetica Neue"), local("HelveticaNeue");
+}
