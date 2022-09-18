@@ -1,1 +1,69 @@
+@font-face {
+  font-family: EBGaramond;
+  src: url("https://vm-f.github.io/-/cdn/fonts/EBGaramond/EBGaramond-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
 
+@font-face {
+  font-family: EBGaramond;
+  src: url("https://vm-f.github.io/-/cdn/fonts/EBGaramond/EBGaramond-Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: EBGaramond;
+  src: url("https://vm-f.github.io/-/cdn/fonts/EBGaramond/EBGaramond-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: EBGaramond;
+  src: url("https://vm-f.github.io/-/cdn/fonts/EBGaramond/EBGaramond-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: EBGaramond;
+  src: url("https://vm-f.github.io/-/cdn/fonts/EBGaramond/EBGaramond-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: EBGaramond;
+  src: url("https://vm-f.github.io/-/cdn/fonts/EBGaramond/EBGaramond-SemiBoldItalic.woff2") format("woff2");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: EBGaramond;
+  src: url("https://vm-f.github.io/-/cdn/fonts/EBGaramond/EBGaramond-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: EBGaramond;
+  src: url("https://vm-f.github.io/-/cdn/fonts/EBGaramond/EBGaramond-BoldItalic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: EBGaramond;
+  src: url("https://vm-f.github.io/-/cdn/fonts/EBGaramond/EBGaramond-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: EBGaramond;
+  src: url("https://vm-f.github.io/-/cdn/fonts/EBGaramond/EBGaramond-ExtraBoldItalic.woff2") format("woff2");
+  font-weight: 800;
+  font-style: italic;
+}
