@@ -1,1 +1,125 @@
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/AntikorMono/TTF/amThin.ttf") format("ttf");
+  font-weight: 100;
+  font-style: normal;
+}
 
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/HelveticaNeue/amThinItalic.ttf") format("ttf");
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/AntikorMono/TTF/amExtraLight.ttf") format("ttf");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/HelveticaNeue/amExtraLightItalic.ttf") format("ttf");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/AntikorMono/TTF/amLight.ttf") format("ttf");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/HelveticaNeue/amLightItalic.ttf") format("ttf");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/AntikorMono/TTF/amBook.ttf") format("ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/HelveticaNeue/amBookItalic.ttf") format("ttf");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/AntikorMono/TTF/amRegular.ttf") format("ttf");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/HelveticaNeue/amRegularItalic.ttf") format("ttf");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/AntikorMono/TTF/amMedium.ttf") format("ttf");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/HelveticaNeue/amMediumItalic.ttf") format("ttf");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/AntikorMono/TTF/amSemiBold.ttf") format("ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/HelveticaNeue/amSemiboldItalic.ttf") format("ttf");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/AntikorMono/TTF/amBold.ttf") format("ttf");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/HelveticaNeue/amBoldItalic.ttf") format("ttf");
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/AntikorMono/TTF/amExtraBold.ttf") format("ttf");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: AntikorMono;
+  src: url("https://vm-f.github.io/-/cdn/fonts/HelveticaNeue/amExtraBoldItalic.ttf") format("ttf");
+  font-weight: 900;
+  font-style: italic;
+}
