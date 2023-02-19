@@ -1,4 +1,4 @@
 @font-face {
   font-family: Gloock;
-  src: Gloock-Regular.ttf
+  src: url(Gloock-Regular.woff2) format("woff2")
 }
